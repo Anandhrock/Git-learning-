@@ -12,7 +12,7 @@ getPG(movies = [movie]){
     var filterarray [ ]
     movie.forEach(movie)=>{
         if (movie.rating = "pg") {
-
+s
             filterarray.push(movie)
 
             
