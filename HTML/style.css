@@ -1,0 +1,19 @@
+#square {
+  width: 100px;
+  height: 100px;
+  background: red;
+}
+/*Class*/
+.square {
+  width: 100px;
+  height: 100px;
+}
+.green {
+  background: rgb(5, 253, 5);
+}
+.red {
+  background: rgb(233, 8, 8);
+}
+.yelloow {
+  background: rgb(47, 3, 129);
+}
